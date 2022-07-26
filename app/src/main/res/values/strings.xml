@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My First API App</string>
+    <string name="api_key">bf7ffe06f15243d197fa6b8e33a0c43d</string>
+    <string name="header">Selamat Datang</string>
+    <string name="header_welcome">Berikut adalah berita pilihan dari Indonesia untuk anda</string>
+</resources>
